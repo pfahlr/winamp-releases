@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title></title>
+<link href="http://www.oldapps.com/sitestyle.css" rel="stylesheet" type="text/css" />
+   <style type="text/css">
+    /* Widget content container */
+   #goog-wm { 
+  padding: 1em;
+  background-color: white;
+}
+
+#goog-wm h3.closest-match {
+  color: #8f2831;
+  border-bottom: 1px dashed #aebd63;
+  padding-bottom: 0.5em;;
+  margin: 0;
+}
+#goog-wm h3.closest-match a { }
+#goog-wm h3.other-things {
+	display: none;
+}
+#goog-wm ul li { }
+#goog-wm li.search-goog {
+  display: none;
+}
+   </style>
+</head>
+
+<body>
+<table width="830" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td>
+
+<a href="http://www.oldapps.com/"><img src="http://www.oldapps.com/images/logo.gif" alt="OldApps" width="170" height="85" border="0" /></a>
+<table class="navtable" border="0" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td class="navoff"><a href="http://www.oldapps.com/">Home</a> </td>
+      <td class="navoff"><a href="http://www.oldapps.com/forum/">Community</a> </td>
+      <td class="navoff"><a href="http://www.oldapps.com/search.htm">Search</a> </td>
+
+      <td class="navoff"><a href="http://www.oldapps.com/contribute.php">Contribute</a> </td>
+      <td class="navoff"><a href="http://www.oldapps.com/help.php">Help</a> </td>
+      <td class="navoff"><a href="http://www.oldapps.com/about.php">About</a> </td>
+      <td class="rightnav navoff"><strong class="alt_os"><a href="http://mac.oldapps.com">Old Mac Versions</a></strong></td>
+
+    </tr>
+
+  </tbody>
+</table></td>
+  </tr>
+</table>
+
+
+<table width="830" align="center" cellpadding="5" cellspacing="10" bgcolor="#FFFFFF">
+  <tr>
+    <td valign="top">  
+      <div class="main"> <a href="/">Home</a> &gt; Page Not Found<strong></strong></div>
+
+      <div class="download_list">
+        <p>Sorry the page you are trying to view does not exist. </p>
+        <p>
+        <!--  404 Data -->
+        <script type="text/javascript">
+  var GOOG_FIXURL_LANG = 'en';
+  var GOOG_FIXURL_SITE = 'http://www.oldapps.com/';
+</script>
+<script type="text/javascript" 
+    src="http://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js"></script>
+        <!-- End 404 Data -->
+You may also seach our website: </p>
+
+      </div>
+      <div>
+        <form id="searchbox_007779823686351122034:i7o_lb6edjm" action="http://www.oldapps.com/betasearch.php">
+          <input type="hidden" name="cx" value="007779823686351122034:i7o_lb6edjm" />
+          <input type="hidden" name="cof" value="FORID:9" />
+          <input name="q" type="text" size="40" />
+          <input type="submit" name="sa" value="Search" />
+        </form>
+      </div>
+
+<div id="results_007779823686351122034:i7o_lb6edjm"></div>
+  <script type="text/javascript">
+    var googleSearchIframeName = "results_007779823686351122034:i7o_lb6edjm";
+    var googleSearchFormName = "searchbox_007779823686351122034:i7o_lb6edjm";
+    var googleSearchFrameWidth = 610;
+    var googleSearchFrameborder = 0;
+    var googleSearchDomain = "google.com";
+    var googleSearchPath = "/cse";
+  </script>
+  <script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"></script>          
+	</td>	
+  </tr>
+</table>
+<div align="center">
+  <table width="800" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+	<td width="100%" height="32">
+
+      <div align="center" class="main">&copy; OldApps.com 2010 All Trademarks, logos, and software are the   property of their respective owners. <a href="http://www.oldapps.com/privacy%20policy.htm">Privacy Policy</a></div></td>
+    </tr>
+  </table>
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-52522-1";
+urchinTracker();
+</script>
+</body>
+</html>
