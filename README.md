@@ -1,65 +1,26 @@
 ```asciiart
 -----------------------------------------------------------------------------------
 
-⎤⎡⎡⎢⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎢⎣⎣⎤
-⎡⎢⎤⎡⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎣⎤⎣⎤
-⎢⎣⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎤⎡⎡⎢
-⎣⎤⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎤⎡
-⎤⎦⎣⎢                                                                            ⎢⎤⎥⎤
-⎡⎢⎤⎡   /          _/  _/_/_/  _/      _/    _/_/    _/      _/  _/_/_/          ⎡⎢⎤⎡
-⎢⎣⎣⎤    _/          _/    _/    _/_/    _/  _/    _/  _/_/  _/_/  _/    _/      ⎣⎤⎣⎤
-⎡⎢⎡⎢   _/    _/    _/    _/    _/  _/  _/  _/_/_/_/  _/  _/  _/  _/_/_/         ⎡⎢⎣⎤
-⎤⎦⎣⎢    _/  _/  _/     _/    _/    _/_/  _/    _/  _/      _/  _/               ⎢⎤⎥⎤
-⎡⎢⎤⎡     _/  _/      _/_/_/  _/      _/  _/    _/  _/      _/  _/               ⎡⎢⎤⎡
-⎢⎣⎣⎤                                                                            ⎣⎤⎣⎤
-⎡⎢⎡⎢                                                                            ⎡⎢⎣⎤
-⎢⎣⎣⎤⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎤⎡⎡⎢
-⎣⎤⎣⎤⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎡⎢⎤⎡
-⎤⎡⎡⎢⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎢⎣⎣⎤
-⎡⎢⎤⎡⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎤⎣⎤
+⎤⎡⎡⎢⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎢⎣⎣⎤⎣⎤⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎤⎡
+⎡⎢⎤⎡⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎡⎢⎣⎢⎣⎤⎣⎤⎣⎤⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎤⎡
+⎢⎣⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎤⎡⎡⎢⎣⎤⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎤⎡
+⎣⎤⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎤⎡⎣⎤⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎣⎤⎡⎢⎤⎡
+⎣⎤⎡⎢⎣⎤⎡⎢⎤⎡⎤⎦⎣⎢                                                                       ⎢⎤⎥⎤⎣⎤⎡⎢⎣⎤⎡⎢⎤
+⎣⎤⎡⎢⎣⎤⎡⎢⎤⎡⎡⎢⎤⎡    /          _/  _/_/_/  _/      _/    _/_/    _/      _/  _/_/_/    ⎡⎢⎤⎡⎣⎤⎡⎢⎣⎤⎡⎢⎤
+⎣⎤⎡⎢⎣⎤⎡⎢⎤⎡⎢⎣⎣⎤  _/          _/    _/    _/_/    _/  _/    _/  _/_/  _/_/  _/    _/   ⎣⎤⎣⎤⎣⎤⎡⎢⎣⎤⎡⎢⎤
+⎣⎤⎡⎢⎣⎤⎡⎢⎤⎡⎡⎢⎡⎢ _/    _/    _/    _/    _/  _/  _/  _/_/_/_/  _/  _/  _/  _/_/_/      ⎡⎢⎣⎤⎣⎤⎡⎢⎣⎤⎡⎢⎤
+⎣⎤⎡⎢⎣⎤⎡⎢⎤⎡⎤⎦⎣⎢  _/  _/  _/     _/    _/    _/_/  _/    _/  _/      _/  _/            ⎢⎤⎥⎤⎣⎤⎡⎢⎣⎤⎡⎢⎤
+⎣⎤⎡⎢⎣⎤⎡⎢⎤⎡⎡⎢⎤⎡   _/  _/      _/_/_/  _/      _/  _/    _/  _/      _/  _/            ⎡⎢⎤⎡⎣⎤⎡⎢⎣⎤⎡⎢⎤
+⎣⎤⎡⎢⎣⎤⎡⎢⎤⎡⎢⎣⎣⎤                                                                       ⎣⎤⎣⎤⎣⎤⎡⎢⎣⎤⎡⎢⎤
+⎣⎤⎡⎢⎣⎤⎡⎢⎤⎡⎡⎢⎡⎢                                                                       ⎡⎢⎣⎤⎣⎤⎡⎢⎣⎤⎡⎢⎤
+⎢⎣⎣⎤⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎤⎡⎡⎢⎢⎣⎣⎤⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎦⎢⎡⎤⎣⎤⎡⎢⎣⎤⎡⎢⎤
+⎣⎤⎣⎤⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎡⎢⎤⎡⎣⎤⎣⎤⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎡⎢⎤⎡
+⎤⎡⎡⎢⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎢⎣⎣⎤⎣⎤⎣⎤⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎡⎢⎤⎡
+⎡⎢⎤⎡⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎤⎣⎤⎣⎤⎣⎤⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎣⎥⎤⎦⎡⎥⎤⎦
 
    WINAMP RELASES COLLECTION  -  BECAUSE YOU MIGHT NEED THEM FOR SOMETHING 
                                  
 -----------------------------------------------------------------------------------
-```
-
-Play that rock guitar
-Jam harder like a Magikist
-Rock 'n roll is the music
-Whip that zebra's ass
-Whip the llama’s ass
-Whip the llama’s ass
-Whip the llama’s ass
-Whip the llama’s ass
-Rock it to the break of dawn
-Rock it like a rockin' Magikist
-Rock on with your bad self
-Play that rock 'n roll bass guitar
-Whip the donkey's ass
-Whip the llama’s ass
-Whip the llama’s ass
-Whip the llama’s ass
-Whip the llama’s ass
-Play the rock show as hard as you can
-Jam it harder like a Magikist
-Rock 'n roll will never die
-Rock Saddam Hussein's ass
-Rock it to Russia
-See upcoming rock shows
-Get tickets for your favorite artists
-You might also like
-Rock Saddam Hussein
-Wesley Willis
-Albert Campbell
-Wesley Willis
-Rock N Roll McDonald’s
-Wesley Willis
-Whip the llama’s ass
-Whip the llama’s ass
-Whip the llama’s ass
-Whip the llama’s ass
-Rock over London, rock on Chicago
-Leinenkugel's Beer, it's out there
 
 
 | Software Version | Release Date | Size |
@@ -428,3 +389,47 @@ Leinenkugel's Beer, it's out there
 | Winamp 5.621 Full | ❓ | 15.77 MB |
 | Winamp 5.622 | Dec 1, 2011 | 15.76 MB |
 | Winamp 5.622 Full | Nov 16, 2011 | 15.77 MB |
+
+---
+
+```
+Play that rock guitar
+Jam harder like a Magikist
+Rock 'n roll is the music
+Whip that zebra's ass
+Whip the llama’s ass
+Whip the llama’s ass
+Whip the llama’s ass
+Whip the llama’s ass
+Rock it to the break of dawn
+Rock it like a rockin' Magikist
+Rock on with your bad self
+Play that rock 'n roll bass guitar
+Whip the donkey's ass
+Whip the llama’s ass
+Whip the llama’s ass
+Whip the llama’s ass
+Whip the llama’s ass
+Play the rock show as hard as you can
+Jam it harder like a Magikist
+Rock 'n roll will never die
+Rock Saddam Hussein's ass
+Rock it to Russia
+See upcoming rock shows
+Get tickets for your favorite artists
+You might also like
+Rock Saddam Hussein
+Wesley Willis
+Albert Campbell
+Wesley Willis
+Rock N Roll McDonald’s
+Wesley Willis
+Whip the llama’s ass
+Whip the llama’s ass
+Whip the llama’s ass
+Whip the llama’s ass
+Rock over London, rock on Chicago
+Leinenkugel's Beer, it's out there
+```
+
+---
