@@ -21,7 +21,9 @@
    WINAMP RELASES COLLECTION  -  BECAUSE YOU MIGHT NEED THEM FOR SOMETHING 
                                  
 -----------------------------------------------------------------------------------
+```
 
+---
 
 | Software Version | Release Date | Size |
 | --- | --- | --- |
@@ -392,7 +394,7 @@
 
 ---
 
-```
+```lyrics
 Play that rock guitar
 Jam harder like a Magikist
 Rock 'n roll is the music
